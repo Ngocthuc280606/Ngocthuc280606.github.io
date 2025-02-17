@@ -1,2 +1,3 @@
 # Ngocthuc280606.github.io
-my private website
+learning Github is funfun
+
