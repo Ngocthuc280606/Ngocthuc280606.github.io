@@ -1,0 +1,7 @@
+image-container {
+    display:flexbox;
+    gap: 2px; 
+}
+image-container img {
+    width: 10px; 
+}
